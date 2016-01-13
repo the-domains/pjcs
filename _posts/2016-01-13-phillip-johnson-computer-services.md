@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Introducing a Shetland based comprehensive and expert computer service provider.
-datePublished: '2016-01-13T20:56:34.073Z'
-dateModified: '2016-01-13T20:56:30.832Z'
+datePublished: '2016-01-13T21:00:01.912Z'
+dateModified: '2016-01-13T20:59:57.349Z'
 title: Phillip Johnson Computer Services
 author: []
 sourcePath: _posts/2016-01-13-phillip-johnson-computer-services.md
@@ -45,3 +45,7 @@ Data Recovery
 If you have hit a brick wall with your personal computer system and do not know where to turn, PJCS is your next stop.
 
 Call 07908806183 to ask for advice or arrange a consultation.
+
+Alternatively contact me through facebook messaging by clicking [here][0]
+
+[0]: https://www.facebook.com/PhillipJohnsonConsultancy/
