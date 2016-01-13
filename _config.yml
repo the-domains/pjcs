@@ -1,0 +1,28 @@
+name: PJCS
+favicon: null
+layout_spectrum: 0.937406258424744
+typography_spectrum: 0.9935965482145548
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.1553350598551333
+  lightness: 0.7038705351296812
+  saturation: 0.629986880114302
+  rhythmicContrast: 0.7178274637553841
+purpose: []
