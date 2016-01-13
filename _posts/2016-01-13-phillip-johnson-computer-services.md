@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Introducing a Shetland based comprehensive and expert computer service provider.
-datePublished: '2016-01-13T20:06:48.118Z'
-dateModified: '2016-01-13T20:06:40.426Z'
+datePublished: '2016-01-13T20:26:52.540Z'
+dateModified: '2016-01-13T20:26:45.564Z'
 title: Phillip Johnson Computer Services
 author: []
 sourcePath: _posts/2016-01-13-phillip-johnson-computer-services.md
@@ -43,3 +43,6 @@ Custom Builds
 Data Recovery
 
 If you have hit a brick wall with your personal computer system and do not know where to turn, PJCS is your next stop.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d73848e-d3fc-440d-91a8-6d5bf8f6dbd6.jpg)
+
+Call 07908806183 to ask for advice or arrange a consultation.
