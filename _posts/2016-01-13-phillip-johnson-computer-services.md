@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Introducing a Shetland based comprehensive and expert computer service provider.
-datePublished: '2016-01-13T19:55:25.030Z'
-dateModified: '2016-01-13T19:55:21.463Z'
+datePublished: '2016-01-13T19:59:48.542Z'
+dateModified: '2016-01-13T19:59:42.139Z'
 title: Phillip Johnson Computer Services
 author: []
 sourcePath: _posts/2016-01-13-phillip-johnson-computer-services.md
@@ -22,7 +22,7 @@ url: phillip-johnson-computer-services/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/129bb6ed-68fa-4d75-904c-d82d5750de27.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf03bceabd2fae37f5e735efb9c6443effb710b7.jpg)
 
 Welcome to Phillip Johnson Computer Services, Shetland.
 
