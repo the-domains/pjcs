@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Introducing a Shetland based comprehensive and expert computer service provider.
-datePublished: '2016-01-13T20:45:17.166Z'
-dateModified: '2016-01-13T20:39:24.354Z'
+datePublished: '2016-01-13T20:46:03.441Z'
+dateModified: '2016-01-13T20:45:59.338Z'
 title: Phillip Johnson Computer Services
 author: []
 sourcePath: _posts/2016-01-13-phillip-johnson-computer-services.md
@@ -26,7 +26,7 @@ _type: Article
 
 Welcome to Phillip Johnson Computer Services, Shetland.
 
-PJCS, a Shetland based computer systems expert, specializes in the following fields to maximize the positive experiences of the end user
+PJCS, a Shetland based computer systems expert, specializes in the following fields to maximize the positive experience of the end user:
 
 Hardware
 
