@@ -1,28 +1,55 @@
-name: PJCS
-favicon: null
-layout_spectrum: 0.62635
-typography_spectrum: 0.66488
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.8608396637719125
+color:
+  brandColors:
+    - '#000000'
+    - '#9E9E9E'
+    - '#595A5C'
+    - '#A3144A'
+    - '#DB677A'
+  brandStrength: 0.8033308247104287
+  lightness: 0.2671225725207478
+  saturation: 0.4011280594859272
+  rhythmicContrast: 0.322031210642308
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#9c9d9c'
-    - '#6a6b6d'
-    - '#c5112e'
-    - '#a33f6b'
-  brandStrength: 0.5
-  lightness: 0.1875
-  saturation: 0.125
-  rhythmicContrast: 1
-purpose: []
+layout_spectrum: 0.30831362889148295
+analytics:
+  google: UA-83529917-2
+  facebook: null
+  twitter: null
+author:
+  name: Phillip Johnson
+  email: philjo1005@gmail.com
+  url: 'http://phillipjohnson.org.uk'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/aea2eeaf-7d30-4018-886a-befa7c8cc02a.jpg
+name: PJCS
+url: 'http://thegrid.ai/pjcs'
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Phillip Johnson Computer Services
+    id: 5f47d886-80ab-4643-906c-41c37a12e63f
+    type: content
+  - name: Pricing
+    id: a0968dc3-0afe-4da9-814d-ce19eb7b899b
+    type: content
+  - name: Project - Cleaning My Laptop
+    id: e844d0e6-57cb-419b-ab45-e3b167730fa8
+    type: content
+  - name: My experience with BT complaints
+    id: de5159ce-c756-457d-aab1-7943eea5d1ac
+    type: content
+favicon: null
+title: Phillip Johnson Computer Services
+content: []
+description: Friendly I.T. Consulting in Shetland
+purpose:
+  - type: external
+    url: 'https://www.facebook.com/PhillipJohnsonConsultancy/'
+    label: Facebook
+github: true
