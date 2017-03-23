@@ -10,6 +10,7 @@ color:
   lightness: 0.2671225725207478
   saturation: 0.4011280594859272
   rhythmicContrast: 0.322031210642308
+github: true
 opengraph:
   image: null
   type: null
@@ -44,6 +45,9 @@ navigation:
   - name: My experience with BT complaints
     id: de5159ce-c756-457d-aab1-7943eea5d1ac
     type: content
+  - name: Becoming a Google Developer
+    id: 7b93cf54-eecc-453a-a333-55bc88b17dfd
+    type: content
 favicon: null
 title: Phillip Johnson Computer Services
 content:
@@ -55,20 +59,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/36406022-c194-4ce8-bb68-294db032fe08.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -77,4 +80,3 @@ purpose:
   - type: external
     url: 'https://www.facebook.com/PhillipJohnsonConsultancy/'
     label: Facebook
-github: true
