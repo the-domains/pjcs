@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-23T17:50:17.331Z'
+datePublished: '2017-03-23T18:15:47.574Z'
 sourcePath: _posts/2016-12-06-becoming-a-developer-on-google-play-tips-tricks-things-y.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-23T17:50:17.201Z'
+dateModified: '2017-03-23T18:15:46.808Z'
 title: 'Becoming a Developer on Google Play - Tips, Tricks, Things You Need!'
 publisher: {}
 description: >-
